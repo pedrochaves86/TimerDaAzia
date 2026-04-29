@@ -65,13 +65,13 @@ export default function App() {
         >
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-green-500/10 border border-green-500/40 text-green-400 text-[10px] font-mono tracking-[0.3em] mb-6 shadow-[0_0_15px_rgba(34,197,94,0.2)]">
             <Clock size={12} className="animate-pulse" />
-            <span>CRONÓMETRO OFICIAL DA "AZIA"</span>
+            <span>CRONÓMETRO OFICIAL DA AZIA</span>
           </div>
           
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-display uppercase tracking-tighter leading-[0.95] text-white drop-shadow-[0_5px_15px_rgba(0,0,0,0.5)]">
-            Há quanto tempo as
-            <span className="text-green-500 relative inline-block"> putinhas </span>
-            andam com
+            Há quanto tempo as 
+            <span className="text-green-500 relative inline-block">putinhas</span>
+             andam com
             <span className="text-green-400"> dores no pescoço?</span>
           </h1>
         </motion.div>
