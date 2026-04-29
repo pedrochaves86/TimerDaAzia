@@ -69,10 +69,8 @@ export default function App() {
           </div>
           
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-display uppercase tracking-tighter leading-[0.95] text-white drop-shadow-[0_5px_15px_rgba(0,0,0,0.5)]">
-            Há quanto tempo as 
-            <span className="text-green-500 relative inline-block">putinhas</span>
-             andam com
-            <span className="text-green-400"> dores no pescoço?</span>
+            Há quanto tempo as putinhas
+            <br />andam com <span className="text-green-400"> dores no pescoço?</span>
           </h1>
         </motion.div>
 
