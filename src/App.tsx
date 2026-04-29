@@ -38,7 +38,7 @@ export default function App() {
     <div className="relative min-h-screen w-full flex flex-col items-center py-12 md:justify-center font-sans overflow-hidden">
       {/* Background with the specified image */}
       <div 
-        className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat transition-transform duration-[30s] hover:scale-110"
+        className="absolute inset-0 z-0 bg-contain bg-center bg-no-repeat"
         style={{ 
           backgroundImage: `url('${import.meta.env.BASE_URL}background_putinhas.jpeg')`, 
           backgroundColor: '#003319' 
