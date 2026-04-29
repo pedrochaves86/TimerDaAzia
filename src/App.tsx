@@ -68,12 +68,12 @@ export default function App() {
             <span>CRONÓMETRO OFICIAL DA "AZIA"</span>
           </div>
           
-          <h1 className="text-3xl sm:text-5xl md:text-7xl lg:text-8xl font-display uppercase tracking-tighter leading-[0.9] text-white drop-shadow-[0_5px_15px_rgba(0,0,0,0.5)]">
-            Há quanto tempo <br />
-            as <span className="text-green-500 relative inline-block">
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-display uppercase tracking-tighter leading-[0.95] text-white drop-shadow-[0_5px_15px_rgba(0,0,0,0.5)]">
+            Há quanto tempo as 
+            <span className="text-green-500 relative inline-block">
               putinhas
-            </span> <br />
-            andam com <br className="xs:hidden" />
+            </span>
+            andam com
             <span className="text-green-400">dores no pescoço?</span>
           </h1>
         </motion.div>
