@@ -40,7 +40,7 @@ export default function App() {
       <div 
         className="absolute inset-0 z-0 bg-contain bg-center bg-no-repeat"
         style={{ 
-          backgroundImage: `url('${import.meta.env.BASE_URL}background_putinhas.jpeg')`, 
+          backgroundImage: `url('${import.meta.env.BASE_URL}background.png')`, 
           backgroundColor: '#003319' 
         }}
       />
