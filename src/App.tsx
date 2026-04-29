@@ -40,7 +40,7 @@ export default function App() {
       <div 
         className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat transition-transform duration-[30s] hover:scale-110"
         style={{ 
-          backgroundImage: `url('${import.meta.env.BASE_URL}background.jpg')`, 
+          backgroundImage: `url('${import.meta.env.BASE_URL}background_putinhas.jpeg')`, 
           backgroundColor: '#003319' 
         }}
       />
